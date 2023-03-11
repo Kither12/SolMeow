@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     private bool canChange = false;
+    public Slider slider;
     
     private Canvas settingCanvas;
     private Canvas MainCanvas;
@@ -22,6 +23,7 @@ public class GameManager : MonoBehaviour
         }
     }
     private void Start() {
+        slider.value = 0;
         StartCoroutine(LoadScene());
     }
     private IEnumerator LoadScene(){
@@ -31,6 +33,15 @@ public class GameManager : MonoBehaviour
         while(op.progress < 0.9f){
             yield return null;
         }
+        while(slider.value <= 0.7f){
+            slider.value += Time.deltaTime;
+            yield return null;
+        }
+        yield return new WaitForSeconds(1f);
+        slider.value = 1;
+        yield return new WaitForSeconds(0.5f);
+        slider.gameObject.SetActive(false);
+        canChange = false;
         while(!canChange){
             yield return null;
         }

@@ -4,15 +4,22 @@ using UnityEngine;
 
 public class StoryManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    public Canvas CustomerInit;
+    public Canvas PlayCanvas;
+    public Canvas Setting;
+    private void Start() {
+        PlayCanvas.enabled = false;
+        Setting.enabled = false;
+        triggerCustomer();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public void triggerCustomer(){
+        CustomerInit.enabled = true;
+    }
+    public void Play(){
+        PlayCanvas.enabled = true;
+        CustomerInit.enabled = false;
+    }
+    public void OpenSetting(){
+        Setting.enabled ^= true;
     }
 }

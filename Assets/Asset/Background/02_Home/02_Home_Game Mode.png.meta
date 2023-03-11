@@ -1,0 +1,2581 @@
+fileFormatVersion: 2
+guid: 9892a0e72db1dfa0d8d6bc625f380b35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a9d3a8f3b0ad17fbc5ff88e50a8874
+      internalID: 1166562635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57101242103208bbbaf42fcff67c0f
+      internalID: 1625261191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be24ad45bf0f242829d6dcc1cbe160
+      internalID: -1953981617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e589cbc39de62e07959c7fa8b2217c5
+      internalID: -896057919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72601bdaf64362ec83acf9a9e03d4c7
+      internalID: -1326138615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea61422686abcdab056109920f9c58
+      internalID: 475134725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4a341f4fcccb1c8fdd7932b82ff3f
+      internalID: 883380987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b5653791bea841b28cff94c39c459
+      internalID: -1627735863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_10
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf78d8e26c890b6873e0bc01f4d2a3
+      internalID: -724539520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d8f88e2dd72efba37b2441b1ee241
+      internalID: 1071550837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d150a55c57b0a9489f0a58823a0e6e
+      internalID: 1740821287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7f7498c59b1556bc23f7d3cc29e43
+      internalID: -611971050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_14
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c270b5b774b32d69551ec9d3df311e
+      internalID: -368796986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_15
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a961383851e1b839aa3cd13c647436
+      internalID: -1920714378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_16
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e36b4540b8f7f2a8d2eef2ae706c67
+      internalID: 534066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f19563933f01904698fd4e12a552f85
+      internalID: 1660518495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_18
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a7a7ed06c78f23a00d7e5b4118e49
+      internalID: -195889008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_19
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3cfbe42b3d91f5aaeb1d9e218876d3
+      internalID: 1201889532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_20
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd67d84db036c1c96c7287296f1097
+      internalID: -591979595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_21
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e0a2479879964eb54cc003169f067
+      internalID: 912966526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_22
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0fd334409f0ebe81de8cd24b7b36d
+      internalID: -1143678552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_23
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aea47d1cf09b3fd4ba21957feead787
+      internalID: -668635735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_24
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de34c0cc4aeb73cd9ab54f3c016adaa
+      internalID: 1143175401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_25
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b90b46d21c375eb9ddb54402061c3
+      internalID: -502785511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_26
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cffada38e0f7cd8788bc162228969aa
+      internalID: -920896590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_27
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6f5743c69da5f1b2d4b63d4b0df82
+      internalID: 1853786851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_28
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccccd649c0b4fed0a953a5d9f52ed3d5
+      internalID: 472073821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e4cc7a646cc00d8bdc4bc9babe92e2
+      internalID: 1256893805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_30
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d45be2ad0cdd5ca4d937639f1c260
+      internalID: -892359467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_31
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1158
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63096fb47f53af6f0b509cf5d195f793
+      internalID: -945419940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_32
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42907f6c089c581e586b476f7aea0053
+      internalID: -1784671510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_33
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1158
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f30cb4b3636c488ba7757d3238217e
+      internalID: -293819622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e28bca6f31636ae908391a52c88011
+      internalID: -212850539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_36
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 835
+        width: 514
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8edac7a7de21a669708b750a0c4820
+      internalID: 784075590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_37
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 835
+        width: 514
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701f711a165bfce4aa7aeb79f43f4f5
+      internalID: -488974755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_38
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1064
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e34a56b5b897208f8fe238ac0eecfe8
+      internalID: -681409520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269eddaecb6238654b1f6f9684ef3100
+      internalID: 745558714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_40
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1005
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d190850b11e97a41b0ced49c9d80ab0
+      internalID: 592252399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9faa0752db5f858250ede84ee322e
+      internalID: -208108162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_42
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 945
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf13249e0eabb5c68cb42a24664887d
+      internalID: -1608616513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852adb5e2b3903458d74cc4f99aae9d
+      internalID: -1640479759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_44
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 886
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2946935d38dc49548aaf063b4b552ab
+      internalID: 966327648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 827
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8b1b525c39a46987efbf26be10dfb
+      internalID: -1918831819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_46
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 827
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192d1837e9cb751ea3ec25c350763af
+      internalID: -1899154624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c2bb26930d40e2afbcd2420be12b0
+      internalID: -1300662688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_48
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 583
+        width: 514
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43136b000c8ee309b4c69944ad11d9
+      internalID: 2008481547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_49
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 583
+        width: 514
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92378b2aebf482ad0afa3e1222293323
+      internalID: 348507489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_50
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 768
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e8373591e6ebbc1a64c17f22870195
+      internalID: -844823312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d4fd69c27392ea683431bbeede8116
+      internalID: 830563428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_52
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 709
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88951cd0b4f96bae8acfa9bc8af0b4d6
+      internalID: 351218571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096114a645093543a8550382b29233d1
+      internalID: -1954639475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_54
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 650
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8944af7b17add7dfa629ed78c22719f
+      internalID: 1482354279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c2a4a08a4d7e9ebfd19aa6c9a0dae
+      internalID: 666748080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_56
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 590
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a173e85e791ebc28bb52f809bd53076
+      internalID: 1797805239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0e2422d69788f1af30326bc843af1
+      internalID: -1080041596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_58
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 331
+        width: 514
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1fab40532a5f8da8c47c687034996
+      internalID: -1700513876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_59
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 331
+        width: 514
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e7ea518009f40395960ecbdb69d60
+      internalID: 706488899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_60
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 531
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55a136c5cab2fa7ae1b7550e021389
+      internalID: 1168534745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1673923816c8bd3b6db8652eacca74
+      internalID: -519214713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_62
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 472
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b613405d132dc3d6bada80562b082d44
+      internalID: -473247685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e69a0b45f8f8b3bbc1ecb1028d9cbc
+      internalID: -1773064927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_64
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 413
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472ae03b2bf8577fb81a1c148bc7999
+      internalID: -308248155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74628f83a771845ae46048ace7ae3a
+      internalID: 399887999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_66
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 354
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69b396147ee0a9385efcc2e32d32cd
+      internalID: 35902100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3fa19656523c4838d2577d1b7a5051
+      internalID: 963240179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 650
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439e3ba5436b463abf4a2841615a207
+      internalID: 555587980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_69
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 79
+        width: 650
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de831df29172de241a5e2a85d06112a7
+      internalID: -1106177616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_70
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 79
+        width: 650
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff519cd09e7f67f1b60ba8b7def84ac
+      internalID: -1834349690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_71
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 295
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596707c9570076016821910f4d4fa2d7
+      internalID: -395686722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31e1f269b12dba4a818e027b4758a85
+      internalID: 1082675402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_73
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 235
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5559db5b2badea61cbb0aa01d6412aa0
+      internalID: -1202971886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3ce354d407f33dba144374096f596
+      internalID: 1988984044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_75
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 176
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5cb7b56dbb120dd94c5e38c6a80611
+      internalID: 2082231870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40050b49f46b2994c8458f4e5119ed1f
+      internalID: -1810186238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_77
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 117
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc8f7e42d340b3cb65a7d1ffa39281
+      internalID: 1697726053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4aa8937b35d7322982b7ce0a904ddb
+      internalID: -1724670898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_79
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 58
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde711d78cfe381aac703d2529e4b03
+      internalID: 32831605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9cf3c00e4c5fcb81fb82945028090
+      internalID: 190128955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_82
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba83e210cc933048263fece41f1b68
+      internalID: 1554335059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_83
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe6e3d699efaa0aa894e15f6edec2cf
+      internalID: 630046066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_84
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0bf26ed9625597a037029c9cbfd90
+      internalID: 1514522911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_85
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f257f3bdc1cde5bf9f56ce178b390ae
+      internalID: 1050891653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b063e8c2e8583bb87e4416fca837b
+      internalID: 749297345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c8115c2e29aea2a21749c0684a6bb
+      internalID: 1487974255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_88
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884e6ac2e77799bcdaebaba32d8da73d
+      internalID: 924669637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_89
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e3e8c47851c8c798d167216828d22
+      internalID: -1418480645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_90
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c788c5f2f3680734a4a08e15fc18fdf
+      internalID: 1221246408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_91
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4fbc44a7acd83f9784632278264e1
+      internalID: -891488313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_92
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1e18a27c622576b34b727370f15d5
+      internalID: -1662388219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_93
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009de5073d2ac36b86b60bc03516091
+      internalID: -1180852212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_94
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc2007603f39241b1a9dcbfcc8f559
+      internalID: -779245424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_95
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a2663f28cf0be2c86071f5550c7463
+      internalID: -1008899500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_96
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c382b4fc352f4d5fbb6b8ab31156c2b
+      internalID: -1518679752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_97
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284a02d491f846f1bca977148927b79
+      internalID: -1059332895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_98
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6785c771c5fc906a883efcc7c1e1a125
+      internalID: 28982550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_99
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34057a85b0bcf4a867f1c4b6b677ec
+      internalID: -1481618508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_100
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f277c1befd03a9cf0a6a28b4840bbde3
+      internalID: 1798984948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_101
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd16763a6fc74b148bd8a549ca7216a
+      internalID: -1950583184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_102
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d307f0029c7d615049a5366036ca2933
+      internalID: -845002793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_103
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb7486ae68c5bdfa6d1f7c60b86a16
+      internalID: -1802582653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_104
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9931543c22850b0d8d6c02413027a71
+      internalID: 2007782622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_105
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6578aa825b4bd8693c7fca158df728
+      internalID: -1632558407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_106
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c1dd218c6f8ea30bf671823b786d45
+      internalID: -548680147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_107
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed31ea7b32033de8cb9c04b3042c0a
+      internalID: -640604955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_108
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1311090859e62cf8c6e4fc5ce2f3d7
+      internalID: -156694824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_109
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cfab46f07aec2dd83885e65c1c59ae
+      internalID: -332183358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_110
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8618795174392ef29685c4562efa101
+      internalID: -168480685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_111
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65f498921727e33a19bf6445cb7d18
+      internalID: 1923667923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_112
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6dd276d7ab8fdd854165492468697
+      internalID: -1723193793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_113
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 0
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196070e5d7d7426db9b74d20d9d4371
+      internalID: 1941045118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02_Home_Game Mode_114
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5f6472b2dac8278a0658340ead198
+      internalID: -124699068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      02_Home_Game Mode_0: 1145660410
+      02_Home_Game Mode_1: 2035403822
+      02_Home_Game Mode_10: -724539520
+      02_Home_Game Mode_100: 1798984948
+      02_Home_Game Mode_101: -1950583184
+      02_Home_Game Mode_102: -845002793
+      02_Home_Game Mode_103: -1802582653
+      02_Home_Game Mode_104: 2007782622
+      02_Home_Game Mode_105: -1632558407
+      02_Home_Game Mode_106: -548680147
+      02_Home_Game Mode_107: -640604955
+      02_Home_Game Mode_108: -156694824
+      02_Home_Game Mode_109: -332183358
+      02_Home_Game Mode_11: 1071550837
+      02_Home_Game Mode_110: -168480685
+      02_Home_Game Mode_111: 1923667923
+      02_Home_Game Mode_112: -1723193793
+      02_Home_Game Mode_113: 1941045118
+      02_Home_Game Mode_114: -124699068
+      02_Home_Game Mode_12: 1740821287
+      02_Home_Game Mode_13: -611971050
+      02_Home_Game Mode_14: -368796986
+      02_Home_Game Mode_15: -1920714378
+      02_Home_Game Mode_16: 534066480
+      02_Home_Game Mode_17: 1660518495
+      02_Home_Game Mode_18: -195889008
+      02_Home_Game Mode_19: 1201889532
+      02_Home_Game Mode_2: 1166562635
+      02_Home_Game Mode_20: -591979595
+      02_Home_Game Mode_21: 912966526
+      02_Home_Game Mode_22: -1143678552
+      02_Home_Game Mode_23: -668635735
+      02_Home_Game Mode_24: 1143175401
+      02_Home_Game Mode_25: -502785511
+      02_Home_Game Mode_26: -920896590
+      02_Home_Game Mode_27: 1853786851
+      02_Home_Game Mode_28: 472073821
+      02_Home_Game Mode_29: 1256893805
+      02_Home_Game Mode_3: 1625261191
+      02_Home_Game Mode_30: -892359467
+      02_Home_Game Mode_31: -945419940
+      02_Home_Game Mode_32: -1784671510
+      02_Home_Game Mode_33: -293819622
+      02_Home_Game Mode_34: -859520164
+      02_Home_Game Mode_35: -212850539
+      02_Home_Game Mode_36: 784075590
+      02_Home_Game Mode_37: -488974755
+      02_Home_Game Mode_38: -681409520
+      02_Home_Game Mode_39: 745558714
+      02_Home_Game Mode_4: -1953981617
+      02_Home_Game Mode_40: 592252399
+      02_Home_Game Mode_41: -208108162
+      02_Home_Game Mode_42: -1608616513
+      02_Home_Game Mode_43: -1640479759
+      02_Home_Game Mode_44: 966327648
+      02_Home_Game Mode_45: -1918831819
+      02_Home_Game Mode_46: -1899154624
+      02_Home_Game Mode_47: -1300662688
+      02_Home_Game Mode_48: 2008481547
+      02_Home_Game Mode_49: 348507489
+      02_Home_Game Mode_5: -896057919
+      02_Home_Game Mode_50: -844823312
+      02_Home_Game Mode_51: 830563428
+      02_Home_Game Mode_52: 351218571
+      02_Home_Game Mode_53: -1954639475
+      02_Home_Game Mode_54: 1482354279
+      02_Home_Game Mode_55: 666748080
+      02_Home_Game Mode_56: 1797805239
+      02_Home_Game Mode_57: -1080041596
+      02_Home_Game Mode_58: -1700513876
+      02_Home_Game Mode_59: 706488899
+      02_Home_Game Mode_6: -1326138615
+      02_Home_Game Mode_60: 1168534745
+      02_Home_Game Mode_61: -519214713
+      02_Home_Game Mode_62: -473247685
+      02_Home_Game Mode_63: -1773064927
+      02_Home_Game Mode_64: -308248155
+      02_Home_Game Mode_65: 399887999
+      02_Home_Game Mode_66: 35902100
+      02_Home_Game Mode_67: 963240179
+      02_Home_Game Mode_68: 555587980
+      02_Home_Game Mode_69: -1106177616
+      02_Home_Game Mode_7: 475134725
+      02_Home_Game Mode_70: -1834349690
+      02_Home_Game Mode_71: -395686722
+      02_Home_Game Mode_72: 1082675402
+      02_Home_Game Mode_73: -1202971886
+      02_Home_Game Mode_74: 1988984044
+      02_Home_Game Mode_75: 2082231870
+      02_Home_Game Mode_76: -1810186238
+      02_Home_Game Mode_77: 1697726053
+      02_Home_Game Mode_78: -1724670898
+      02_Home_Game Mode_79: 32831605
+      02_Home_Game Mode_8: 883380987
+      02_Home_Game Mode_80: -537350110
+      02_Home_Game Mode_81: 190128955
+      02_Home_Game Mode_82: 1554335059
+      02_Home_Game Mode_83: 630046066
+      02_Home_Game Mode_84: 1514522911
+      02_Home_Game Mode_85: 1050891653
+      02_Home_Game Mode_86: 749297345
+      02_Home_Game Mode_87: 1487974255
+      02_Home_Game Mode_88: 924669637
+      02_Home_Game Mode_89: -1418480645
+      02_Home_Game Mode_9: -1627735863
+      02_Home_Game Mode_90: 1221246408
+      02_Home_Game Mode_91: -891488313
+      02_Home_Game Mode_92: -1662388219
+      02_Home_Game Mode_93: -1180852212
+      02_Home_Game Mode_94: -779245424
+      02_Home_Game Mode_95: -1008899500
+      02_Home_Game Mode_96: -1518679752
+      02_Home_Game Mode_97: -1059332895
+      02_Home_Game Mode_98: 28982550
+      02_Home_Game Mode_99: -1481618508
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

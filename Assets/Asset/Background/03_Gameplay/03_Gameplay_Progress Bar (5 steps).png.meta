@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: 2813df6652daf2ec9a801dc24d2c0b7e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 186
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4a79d0c05fcfc1a1ab8048edf3e92
+      internalID: 183788190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 214
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2ec22970323797990daa8719a79cb
+      internalID: -2050205843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 242
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b76fe5f4e0d9e9ada7db0512690a0
+      internalID: 1067378389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 270
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f838d20051a6ba9f1ba0009cc3f14
+      internalID: 895957548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 298
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209615e5a830cc2e68185cab2cd4d856
+      internalID: -114298084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 326
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012140b9d4b3123cacca44aa7666aba
+      internalID: 1431808359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b565218809c4db1a2079f4fd82a97d
+      internalID: 315571681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 354
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd7b7768ac6aea9b551d95c825b0f5
+      internalID: 1622843471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 410
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3949697798efe0c89615dd89fdbc8d
+      internalID: 309606550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 438
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30593faeb1c0cb0198a17f640da3640c
+      internalID: -537695471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 466
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654fb66b45ae74647839a98be3eabf94
+      internalID: 771933951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 494
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2bd0a61167b9dc81dbd5b71315c12
+      internalID: -812706054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 522
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e27385f4b4aea3fa8a4d159e450885
+      internalID: -278437013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 550
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224229b176daf1d1bb899527b4b4ef7
+      internalID: 743762134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 578
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8628c74d8cf8233dc905d1a34aa16006
+      internalID: 1519945672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 382
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb95052023257148f1d17c97eee979
+      internalID: -1199070119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b28a0f3756cc8c9c9c03a2a34183c
+      internalID: -1442190990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355aeacd65e6f626bb6f045a2ad251c6
+      internalID: 1353283580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e499835c1624c3cd3b0896e716ac4dbb
+      internalID: -1097109799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 74
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c72ab3d4b6348eb4dc66b01786fba
+      internalID: -670898023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 46
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a06f27ef11ce15a7fedec9a72f01d
+      internalID: -2056990413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c627bf4da6a5de58dc604d38a8c9c7
+      internalID: -1644910036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 494
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d825e4145ce7da2ea46d58c4372d005
+      internalID: 1068643464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 410
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76139d61d2e3b8fdb59cebd33d31e2e
+      internalID: 694189724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 522
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc437178206f079923a0fce6689e42
+      internalID: 1736225926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 326
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d215992d10355ca7743bc2924683a
+      internalID: 1604951497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 242
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9e20aac20225759495cd1de7d6cc8
+      internalID: 572505169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 466
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf39e8514258bd3f9c0cec001bcf26b
+      internalID: 1891938374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 550
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d927a0f1bcf85484ca143c1ef5acf
+      internalID: 586578078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 354
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cdc51b558308abb84dda422a0b599
+      internalID: 718777417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 214
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f024c2e9a84956598c4766fd724c27b
+      internalID: -886639126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 270
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0c247bdd1ca8e387036428169981f
+      internalID: 1910870383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 298
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6ec5eec7f40d62bcb1615059d5ece
+      internalID: 1004165721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 130
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4eda739f7e203885d2fc6f1eaf1ea
+      internalID: 1526705193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c452628ad74b5638ab01f98a09c2cc
+      internalID: -1267288929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 102
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04560c02c3af60e9e502c12a42124b
+      internalID: -1143962191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71adbae5ed6f769828b9ba79169b21a2
+      internalID: 985819830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 578
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a96a23c77e0c9b8c96b75deef0d8e
+      internalID: -1106694745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 382
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b4ff86eb7ba06cb3e81384e2405ce
+      internalID: -1484882742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 46
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc31326c6a43c6df4bf2f29b75d1607d
+      internalID: -893961594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d5690d9d10359080d0a556039ba2b
+      internalID: 1157848060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 438
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90121659dca18a08888f9d3d692740d3
+      internalID: -1705885562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65571f1a7dd6f416e82c84d73ff96c36
+      internalID: 1100471756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 326
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d07b94c20fc8351a01fe86803218f3
+      internalID: -1319865367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 438
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263faec442b69affaddeeae9da314cd
+      internalID: 736965015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 466
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22168eb698af3a4279a5e38bb782c7d6
+      internalID: 1731543803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 298
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b5b54a0879fe70a97f543060bce8b
+      internalID: -124449543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_49
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 382
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733d1056582195edb9daca24730877f
+      internalID: 891661632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_50
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 354
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760174e416258f222b2618e55f9a5d96
+      internalID: -1223506731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 410
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088476f175a7ceffaa10f2aab1f817e6
+      internalID: 913355862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 494
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e77b46ec15d7d7a575250f0b2ec7e
+      internalID: -992384981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae905031045184c63afdce242621ce4d
+      internalID: 1843393831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 578
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b1d9feae1f353c4a93067e8a85ba35
+      internalID: 2056194554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 102
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6be45c391b680c88a42ee873c347e
+      internalID: 883304762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 158
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d70d8eb9b3228bb908d837155dc2a8
+      internalID: -1872341879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 186
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03ad71ea52aa284c9c7ab757ada0dbb
+      internalID: -1937488792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1419b7b4c84c9aa799904e2da4b3c01
+      internalID: 692490757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_59
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 214
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26365af6a3cd7372aa3779d0968ccf00
+      internalID: 1658559499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_60
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 550
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765060441d7d94dd1b5e5fb6667dcad8
+      internalID: -918184367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 242
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986d5f9f931619a67bbdf8ea7ae33754
+      internalID: -291107256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 522
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e56212cadc13f5b7fc9327e376cff
+      internalID: -732691542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 270
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81856d2ca404907d18028e310103d7fd
+      internalID: 1487313247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 18
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ab1fa6cbad823ebb613068da2af65
+      internalID: 254627355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_65
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 522
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d48b42fe1043b7caff5b0984bae971
+      internalID: 446312858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 466
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd19a1f851494a22a5983516e8be17f
+      internalID: 1686010147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 550
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3521ee4e3ee2ce2189f48fff17bf5df
+      internalID: 599504835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_68
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 438
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d90dab8072a53839e8acb5a3d2d2b5
+      internalID: 157859855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 18
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02018256ae918173c83bda83edd0bda0
+      internalID: 2121871400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_70
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 578
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5b75f2cfe2778dda3d71d8caa807f5
+      internalID: -62319016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 494
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6681dcb71b97ca2a194cf9cdd4a344
+      internalID: -185429785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c5b1a46dec88b24850c709a3eeeb60
+      internalID: 1756547059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0571d69c77e24bf5bb846b8d1b6a5a7
+      internalID: -734780650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 74
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d581e3761ca6bab82a76b342bf2e09d8
+      internalID: 75689993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 130
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4effbfa181366dac7990d2533b2b0af3
+      internalID: 524653116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 158
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e616afb8c16d3879ed8eed3dad7e4e
+      internalID: -1339244465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 186
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba540512de250623a0518eb2a43a646
+      internalID: -1439318306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_78
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 214
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b5c835d3c90fc5889d248e68f28bdd
+      internalID: -1638777797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_79
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 242
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3cdce89245143b87516ace5599b6d
+      internalID: -716707429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_80
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 410
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abeabbd4c3752544a9a835887fc13f9
+      internalID: 86069917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 270
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989ad398726f0df4b3883db461d36ca
+      internalID: 832126332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 326
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442ea3be9f140ad6a9a4cf410d156a6a
+      internalID: -242989881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 298
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa2ba94aa9275fa84be230e2d42979
+      internalID: -1366531694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 382
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee235895f02599f9a75f6f8790819a8
+      internalID: -1771087798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 46
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20394bb8908967bd198475e2470e4c82
+      internalID: 870995930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 466
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea47c70ccc2e186e96fd9cf9be6553f
+      internalID: 1775963690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 578
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c8fec34fe91758bec72443204f5c1
+      internalID: -2146606788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 382
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998fb415bf144c8b825c66fd3a44d01
+      internalID: -1992169495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_89
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 130
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8828fc8f3939ad4598b66b0c00451827
+      internalID: 203010494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 158
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a134ed6f950181670b7d18504d2a8dd7
+      internalID: 1522818535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_91
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 550
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fa197445b63fc583c504c397137c7
+      internalID: -245474264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_92
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 186
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d0002d2ae16e8a09bf7124ec3bc36a
+      internalID: 1681391587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_93
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 354
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab578473984c0ce9b5ea3113d68bd25
+      internalID: 2080074150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_94
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 326
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ffcc1ede69029b844ad45d1db9bad
+      internalID: 26062024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 214
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b941db9bce2eb1068ba0566ec321321f
+      internalID: -1934049313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_96
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 74
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49db60ac2348df15aab621df40ed783
+      internalID: -911966143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_97
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 438
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7e226c56d1e3b15bf792ff70781882
+      internalID: 1527971517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 242
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0f49f755f1721bb0f516a182e8828
+      internalID: -1857204673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 102
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48697130cf0015e95a9aac7977dc3925
+      internalID: -1513168546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_100
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 494
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712df8deab97fcbf7a268893498ecb5f
+      internalID: 507430694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_101
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 46
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5380366b8422b6e0aff55c96fc5fbe8
+      internalID: 1019379523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_102
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 270
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04177c6573f69b1897ad082346112c5
+      internalID: -889122646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_103
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 298
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeb2288599f3842abda1f1694c36353
+      internalID: -767751795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_104
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 18
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bac78add0a8039bb75c7f7928fc2bf
+      internalID: -1888020219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_105
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 522
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d546bc188d906bb8c3cdfa5a82b16
+      internalID: -1595389132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_106
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 410
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1dda9fcbb7cf578a5ef969bbd4a836
+      internalID: 545848782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Gameplay_Progress Bar (5 steps)_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a5f34feaef88262b3e55b0670938a3
+      internalID: -1355670668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      03_Gameplay_Progress Bar (5 steps)_0: -1123087988
+      03_Gameplay_Progress Bar (5 steps)_1: 1476435290
+      03_Gameplay_Progress Bar (5 steps)_10: 309606550
+      03_Gameplay_Progress Bar (5 steps)_100: 507430694
+      03_Gameplay_Progress Bar (5 steps)_101: 1019379523
+      03_Gameplay_Progress Bar (5 steps)_102: -889122646
+      03_Gameplay_Progress Bar (5 steps)_103: -767751795
+      03_Gameplay_Progress Bar (5 steps)_104: -1888020219
+      03_Gameplay_Progress Bar (5 steps)_105: -1595389132
+      03_Gameplay_Progress Bar (5 steps)_106: 545848782
+      03_Gameplay_Progress Bar (5 steps)_107: -1355670668
+      03_Gameplay_Progress Bar (5 steps)_108: -809722472
+      03_Gameplay_Progress Bar (5 steps)_11: -537695471
+      03_Gameplay_Progress Bar (5 steps)_12: 771933951
+      03_Gameplay_Progress Bar (5 steps)_13: -812706054
+      03_Gameplay_Progress Bar (5 steps)_14: -278437013
+      03_Gameplay_Progress Bar (5 steps)_15: 743762134
+      03_Gameplay_Progress Bar (5 steps)_16: 1519945672
+      03_Gameplay_Progress Bar (5 steps)_17: -1199070119
+      03_Gameplay_Progress Bar (5 steps)_18: -1442190990
+      03_Gameplay_Progress Bar (5 steps)_19: 1353283580
+      03_Gameplay_Progress Bar (5 steps)_2: 183788190
+      03_Gameplay_Progress Bar (5 steps)_20: -1097109799
+      03_Gameplay_Progress Bar (5 steps)_21: -670898023
+      03_Gameplay_Progress Bar (5 steps)_22: -2056990413
+      03_Gameplay_Progress Bar (5 steps)_23: -1644910036
+      03_Gameplay_Progress Bar (5 steps)_24: 1068643464
+      03_Gameplay_Progress Bar (5 steps)_25: 694189724
+      03_Gameplay_Progress Bar (5 steps)_26: 1736225926
+      03_Gameplay_Progress Bar (5 steps)_27: 1604951497
+      03_Gameplay_Progress Bar (5 steps)_28: 572505169
+      03_Gameplay_Progress Bar (5 steps)_29: 1891938374
+      03_Gameplay_Progress Bar (5 steps)_3: -2050205843
+      03_Gameplay_Progress Bar (5 steps)_30: 586578078
+      03_Gameplay_Progress Bar (5 steps)_31: 718777417
+      03_Gameplay_Progress Bar (5 steps)_32: -886639126
+      03_Gameplay_Progress Bar (5 steps)_33: 1910870383
+      03_Gameplay_Progress Bar (5 steps)_34: 1004165721
+      03_Gameplay_Progress Bar (5 steps)_35: 1526705193
+      03_Gameplay_Progress Bar (5 steps)_36: -1267288929
+      03_Gameplay_Progress Bar (5 steps)_37: -1143962191
+      03_Gameplay_Progress Bar (5 steps)_38: 985819830
+      03_Gameplay_Progress Bar (5 steps)_39: -1106694745
+      03_Gameplay_Progress Bar (5 steps)_4: 1067378389
+      03_Gameplay_Progress Bar (5 steps)_40: -1484882742
+      03_Gameplay_Progress Bar (5 steps)_41: -893961594
+      03_Gameplay_Progress Bar (5 steps)_42: 1157848060
+      03_Gameplay_Progress Bar (5 steps)_43: -1705885562
+      03_Gameplay_Progress Bar (5 steps)_44: 1100471756
+      03_Gameplay_Progress Bar (5 steps)_45: -1319865367
+      03_Gameplay_Progress Bar (5 steps)_46: 736965015
+      03_Gameplay_Progress Bar (5 steps)_47: 1731543803
+      03_Gameplay_Progress Bar (5 steps)_48: -124449543
+      03_Gameplay_Progress Bar (5 steps)_49: 891661632
+      03_Gameplay_Progress Bar (5 steps)_5: 895957548
+      03_Gameplay_Progress Bar (5 steps)_50: -1223506731
+      03_Gameplay_Progress Bar (5 steps)_51: 913355862
+      03_Gameplay_Progress Bar (5 steps)_52: -992384981
+      03_Gameplay_Progress Bar (5 steps)_53: 1843393831
+      03_Gameplay_Progress Bar (5 steps)_54: 2056194554
+      03_Gameplay_Progress Bar (5 steps)_55: 883304762
+      03_Gameplay_Progress Bar (5 steps)_56: -1872341879
+      03_Gameplay_Progress Bar (5 steps)_57: -1937488792
+      03_Gameplay_Progress Bar (5 steps)_58: 692490757
+      03_Gameplay_Progress Bar (5 steps)_59: 1658559499
+      03_Gameplay_Progress Bar (5 steps)_6: -114298084
+      03_Gameplay_Progress Bar (5 steps)_60: -918184367
+      03_Gameplay_Progress Bar (5 steps)_61: -291107256
+      03_Gameplay_Progress Bar (5 steps)_62: -732691542
+      03_Gameplay_Progress Bar (5 steps)_63: 1487313247
+      03_Gameplay_Progress Bar (5 steps)_64: 254627355
+      03_Gameplay_Progress Bar (5 steps)_65: 446312858
+      03_Gameplay_Progress Bar (5 steps)_66: 1686010147
+      03_Gameplay_Progress Bar (5 steps)_67: 599504835
+      03_Gameplay_Progress Bar (5 steps)_68: 157859855
+      03_Gameplay_Progress Bar (5 steps)_69: 2121871400
+      03_Gameplay_Progress Bar (5 steps)_7: 1431808359
+      03_Gameplay_Progress Bar (5 steps)_70: -62319016
+      03_Gameplay_Progress Bar (5 steps)_71: -185429785
+      03_Gameplay_Progress Bar (5 steps)_72: 1756547059
+      03_Gameplay_Progress Bar (5 steps)_73: -734780650
+      03_Gameplay_Progress Bar (5 steps)_74: 75689993
+      03_Gameplay_Progress Bar (5 steps)_75: 524653116
+      03_Gameplay_Progress Bar (5 steps)_76: -1339244465
+      03_Gameplay_Progress Bar (5 steps)_77: -1439318306
+      03_Gameplay_Progress Bar (5 steps)_78: -1638777797
+      03_Gameplay_Progress Bar (5 steps)_79: -716707429
+      03_Gameplay_Progress Bar (5 steps)_8: 315571681
+      03_Gameplay_Progress Bar (5 steps)_80: 86069917
+      03_Gameplay_Progress Bar (5 steps)_81: 832126332
+      03_Gameplay_Progress Bar (5 steps)_82: -242989881
+      03_Gameplay_Progress Bar (5 steps)_83: -1366531694
+      03_Gameplay_Progress Bar (5 steps)_84: -1771087798
+      03_Gameplay_Progress Bar (5 steps)_85: 870995930
+      03_Gameplay_Progress Bar (5 steps)_86: 1775963690
+      03_Gameplay_Progress Bar (5 steps)_87: -2146606788
+      03_Gameplay_Progress Bar (5 steps)_88: -1992169495
+      03_Gameplay_Progress Bar (5 steps)_89: 203010494
+      03_Gameplay_Progress Bar (5 steps)_9: 1622843471
+      03_Gameplay_Progress Bar (5 steps)_90: 1522818535
+      03_Gameplay_Progress Bar (5 steps)_91: -245474264
+      03_Gameplay_Progress Bar (5 steps)_92: 1681391587
+      03_Gameplay_Progress Bar (5 steps)_93: 2080074150
+      03_Gameplay_Progress Bar (5 steps)_94: 26062024
+      03_Gameplay_Progress Bar (5 steps)_95: -1934049313
+      03_Gameplay_Progress Bar (5 steps)_96: -911966143
+      03_Gameplay_Progress Bar (5 steps)_97: 1527971517
+      03_Gameplay_Progress Bar (5 steps)_98: -1857204673
+      03_Gameplay_Progress Bar (5 steps)_99: -1513168546
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

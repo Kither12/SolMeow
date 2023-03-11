@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 3cec0ba2056f3781f907c5b919601898
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846786043a980a32bb19beb083173e0
+      internalID: 921166081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1043
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc9a332c82e0d4a9ecc1b3aa1710d8
+      internalID: 1474365511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1043
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a8b0fb5fccccc686af71122905779
+      internalID: 956464985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1043
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fb5f2a97a09e804b6de44e6cfed4bd
+      internalID: -401843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1043
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d1c44d11f76b49586e9d6074a0e52b
+      internalID: -34627368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1043
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbf46050506212aa22208ef110c4aa
+      internalID: 2027803394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1040
+        width: 232
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965991db8f6680c3841e69384ea0e3f
+      internalID: -1575047644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 420
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b46d8e4db9fdb10ae5c525dc82834a
+      internalID: -1520726493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6feef1df49091e8fb419a1249f0cc
+      internalID: 202334001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 755
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374239410ef61a128ad2f6116aece6a
+      internalID: 636741271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 755
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3c3d72152770d497d5d05d408ba19
+      internalID: -292327359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 755
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01659dd0c0dbfe462bdaa7a98dffe175
+      internalID: -1169254946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 755
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa40b09a328ea9808db2f6c93a72b66
+      internalID: -1401934622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 755
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b337447050d5098d866c4adf0caadf2
+      internalID: 1190461766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 752
+        width: 232
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0cd426ebb1d65c0977eac7e961ee68
+      internalID: -265714509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 420
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc438aa8cce75b72d9d9aa82074260ed
+      internalID: 1935438233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82563c5124a3c099b8e1235e97388fa0
+      internalID: 1957140812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 467
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d4c1400c9ba3cfa822d89890b90a74
+      internalID: 217362716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 467
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f331ac9aaee889b453986132f8ab2
+      internalID: 417114623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 467
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61bb351d134c78e7b6faba1b66bfe67
+      internalID: 1833958265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 467
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09d79ebf6109f4b9805d397b6dea627
+      internalID: 942844094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 467
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad35327cf8bbbe0aba139d969db7b8b
+      internalID: 1224492580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 464
+        width: 232
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f24b363a70b10b09f9a55b0afd400b
+      internalID: -864095682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 416
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a9027b86974a1c8c208b73450fede
+      internalID: -1050374374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b02d2d68c2704f68c9f9e8b855fcb1
+      internalID: 1049183078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 179
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab1309521f6da49daea0a6ef7cd2a78
+      internalID: 2070922380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 179
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8794d36c25b77193b9b652ad48515fb4
+      internalID: -20572543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03efa76749c0e5e39f18641fe172d7f
+      internalID: 1379476368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 179
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36d7fecf5243c0ea536f856da6fcc3
+      internalID: -152043971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 179
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a64ba83d8f9d1595879bac7cdbd57b3
+      internalID: 1169867965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 176
+        width: 232
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0989561111102eabb0200d0b2e159
+      internalID: 548217444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-Level-Time (Daily Reward) 1_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 416
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71634e48c3e15dc238f2f2928ef2d0d4
+      internalID: -1625562784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Avatar-Level-Time (Daily Reward) 1_0: 921166081
+      Avatar-Level-Time (Daily Reward) 1_1: 1474365511
+      Avatar-Level-Time (Daily Reward) 1_10: -292327359
+      Avatar-Level-Time (Daily Reward) 1_11: -1169254946
+      Avatar-Level-Time (Daily Reward) 1_12: -1401934622
+      Avatar-Level-Time (Daily Reward) 1_13: 1190461766
+      Avatar-Level-Time (Daily Reward) 1_14: -265714509
+      Avatar-Level-Time (Daily Reward) 1_15: 1935438233
+      Avatar-Level-Time (Daily Reward) 1_16: 1957140812
+      Avatar-Level-Time (Daily Reward) 1_17: 217362716
+      Avatar-Level-Time (Daily Reward) 1_18: 417114623
+      Avatar-Level-Time (Daily Reward) 1_19: 1833958265
+      Avatar-Level-Time (Daily Reward) 1_2: 956464985
+      Avatar-Level-Time (Daily Reward) 1_20: 942844094
+      Avatar-Level-Time (Daily Reward) 1_21: 1224492580
+      Avatar-Level-Time (Daily Reward) 1_22: -864095682
+      Avatar-Level-Time (Daily Reward) 1_23: -1050374374
+      Avatar-Level-Time (Daily Reward) 1_24: 1049183078
+      Avatar-Level-Time (Daily Reward) 1_25: 2070922380
+      Avatar-Level-Time (Daily Reward) 1_26: -20572543
+      Avatar-Level-Time (Daily Reward) 1_27: 1379476368
+      Avatar-Level-Time (Daily Reward) 1_28: -152043971
+      Avatar-Level-Time (Daily Reward) 1_29: 1169867965
+      Avatar-Level-Time (Daily Reward) 1_3: -401843484
+      Avatar-Level-Time (Daily Reward) 1_30: 548217444
+      Avatar-Level-Time (Daily Reward) 1_31: -1625562784
+      Avatar-Level-Time (Daily Reward) 1_4: -34627368
+      Avatar-Level-Time (Daily Reward) 1_5: 2027803394
+      Avatar-Level-Time (Daily Reward) 1_6: -1575047644
+      Avatar-Level-Time (Daily Reward) 1_7: -1520726493
+      Avatar-Level-Time (Daily Reward) 1_8: 202334001
+      Avatar-Level-Time (Daily Reward) 1_9: 636741271
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
