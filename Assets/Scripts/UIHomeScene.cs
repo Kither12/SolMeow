@@ -10,6 +10,7 @@ public class UIHomeScene : MonoBehaviour
     public Canvas gameModeCanvas;
     public Canvas menuCanvas;
     public CanvasGroup main;
+    public Animator MenuAnimator;
     private void Start() {
         if(gameModeCanvas != null) gameModeCanvas.enabled = false;
         if(menuCanvas != null) menuCanvas.enabled = false;
