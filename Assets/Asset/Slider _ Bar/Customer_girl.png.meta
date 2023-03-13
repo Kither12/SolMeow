@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85e7237feeb08152abb6262d0cfb2ab1
+guid: fe4950f3cf588b08eb00601db2f79a4d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Panel_Dialog_Request _ CTA button_0
+      name: Customer_girl_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 312
-        width: 232
-        height: 276
+        x: 204
+        y: 0
+        width: 924
+        height: 1344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b23288fe7fdfd6731acafaf2537436b9
-      internalID: -115583056
+      spriteID: d42744709e502af3ba9326a67d19b855
+      internalID: -2106296200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panel_Dialog_Request _ CTA button_1
+      name: Customer_girl_1
       rect:
         serializedVersion: 2
-        x: 992
-        y: 306
-        width: 360
-        height: 144
+        x: 1379
+        y: 0
+        width: 1375
+        height: 1344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90ebc55301f768d65ae1c1f3cdca7ceb
-      internalID: 1974785384
+      spriteID: 13759717ab99bde5ba85b052470770c2
+      internalID: -852101756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panel_Dialog_Request _ CTA button_2
+      name: Customer_girl_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 8
-        width: 232
-        height: 276
+        x: 2765
+        y: 0
+        width: 1408
+        height: 1344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf1ebbe63cd6b903386bfafe6664d8c6
-      internalID: -1777067035
+      spriteID: a1a6c77960728e5109fed5a6f76becd7
+      internalID: 691055291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panel_Dialog_Request _ CTA button_3
+      name: Customer_girl_3
       rect:
         serializedVersion: 2
-        x: 992
-        y: 2
-        width: 360
-        height: 144
+        x: 4179
+        y: 0
+        width: 1375
+        height: 1344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 536c88dd23d56963d8aeb14aed633a2a
-      internalID: 814217980
+      spriteID: 66f26990549e21d589ca6b8df3483c0d
+      internalID: -587595340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Customer_girl_4
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 0
+        width: 1375
+        height: 1344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c669868c8f402acb65fbfc841d1930
+      internalID: -2084516150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Customer_girl_5
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 0
+        width: 1369
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9beb8df98d9fd5aad64c86baae255e
+      internalID: 179785622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Customer_girl_6
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 1287
+        width: 1369
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efe08ce3af0ab5d9364401c04d1326
+      internalID: -1919860109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Customer_girl_7
+      rect:
+        serializedVersion: 2
+        x: 8382
+        y: 0
+        width: 1375
+        height: 1344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd47ddeacb951839b7632bde84b4e5
+      internalID: -1350469968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Customer_girl_8
+      rect:
+        serializedVersion: 2
+        x: 10089
+        y: 0
+        width: 756
+        height: 1344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa5a52abed55960aedab86abff2bc6
+      internalID: -1107135892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Customer_girl_9
+      rect:
+        serializedVersion: 2
+        x: 6974
+        y: 928
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ecc4467bc6b23acafecdd124c8866e
+      internalID: -597910597
       vertices: []
       indices: 
       edges: []
@@ -211,10 +337,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Panel_Dialog_Request _ CTA button_0: -115583056
-      Panel_Dialog_Request _ CTA button_1: 1974785384
-      Panel_Dialog_Request _ CTA button_2: -1777067035
-      Panel_Dialog_Request _ CTA button_3: 814217980
+      Customer_girl_0: -2106296200
+      Customer_girl_1: -852101756
+      Customer_girl_2: 691055291
+      Customer_girl_3: -587595340
+      Customer_girl_4: -2084516150
+      Customer_girl_5: 179785622
+      Customer_girl_6: -1919860109
+      Customer_girl_7: -1350469968
+      Customer_girl_8: -1107135892
+      Customer_girl_9: -597910597
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
