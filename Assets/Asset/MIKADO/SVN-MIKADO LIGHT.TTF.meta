@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 425495f92ccda02f99c7df051a2c06ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SVN-Mikado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41fd6b7eb05874b25b7f70d09637ed7d, type: 3}
+  - {fileID: 12800000, guid: a1fc2129b22142affb65c7c125bea5fb, type: 3}
+  - {fileID: 12800000, guid: b01fdf6b1992675afa131c51fb37966d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

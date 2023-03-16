@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     
     private Canvas settingCanvas;
     private Canvas MainCanvas;
+    public TextMeshProUGUI loadingText;
     private void Awake() {
         if(instance == null){
             instance = this;
@@ -35,10 +36,12 @@ public class GameManager : MonoBehaviour
         }
         while(slider.value <= 0.7f){
             slider.value += Time.deltaTime;
+            loadingText.text = "Loading" + (int)(slider.value * 100) + "%";
             yield return null;
         }
         yield return new WaitForSeconds(1f);
         slider.value = 1;
+        loadingText.text = "Loading" + (int)(slider.value * 100) + "%";
         yield return new WaitForSeconds(0.5f);
         slider.gameObject.SetActive(false);
         canChange = false;

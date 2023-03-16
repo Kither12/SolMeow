@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 686035b7dc78aadf8950f5ebf5c1ece2
+guid: a7fab116be41fa6f0bfe269610429d38
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,64 +117,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slider - Sound_0
+      name: Panel_Dialog_Request & CTA button_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 202
-        width: 688
-        height: 56
+        x: 16
+        y: 312
+        width: 232
+        height: 276
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d13948d55bed9d52c8303e1b13c8e501
-      internalID: -1759319775
+      spriteID: 6d8725c0a60bb0e109bb3a3cf08a8811
+      internalID: -1470193621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slider - Sound_1
+      name: Panel_Dialog_Request & CTA button_1
       rect:
         serializedVersion: 2
-        x: 12
-        y: 122
-        width: 672
-        height: 40
+        x: 992
+        y: 306
+        width: 360
+        height: 144
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 14, y: 0, z: 15, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c59eb3968bebcf288863eab28c8057fc
-      internalID: 484992980
+      spriteID: 026f38e8a7f884dc8b6dde31a5cc1774
+      internalID: 1877874680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slider - Sound_2
+      name: Panel_Dialog_Request & CTA button_2
       rect:
         serializedVersion: 2
-        x: 4
+        x: 16
+        y: 8
+        width: 232
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26002d6dd96786f5e913f42219a359be
+      internalID: -660051728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_Dialog_Request & CTA button_3
+      rect:
+        serializedVersion: 2
+        x: 992
         y: 2
-        width: 80
-        height: 80
+        width: 360
+        height: 144
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37962b973811cde16ae7c9445bd08c32
-      internalID: -409583025
+      spriteID: 196e20da231b2c1b595aa5aed3b4958a
+      internalID: -1293051773
       vertices: []
       indices: 
       edges: []
@@ -190,9 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slider - Sound_0: -1759319775
-      Slider - Sound_1: 484992980
-      Slider - Sound_2: -409583025
+      Panel_Dialog_Request & CTA button_0: -1470193621
+      Panel_Dialog_Request & CTA button_1: 1877874680
+      Panel_Dialog_Request & CTA button_2: -660051728
+      Panel_Dialog_Request & CTA button_3: -1293051773
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
